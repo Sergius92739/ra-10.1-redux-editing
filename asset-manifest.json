@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-10.1-redux-editing/static/css/main.9d7cadae.css",
+    "main.js": "/ra-10.1-redux-editing/static/js/main.650b49cc.js",
+    "static/js/787.28c9ae4f.chunk.js": "/ra-10.1-redux-editing/static/js/787.28c9ae4f.chunk.js",
+    "static/media/Inter.ttf": "/ra-10.1-redux-editing/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "static/media/icomoon.eot?bqe4pp": "/ra-10.1-redux-editing/static/media/icomoon.6b71ccb93bbb241c334b.eot",
+    "static/media/icomoon.woff?bqe4pp": "/ra-10.1-redux-editing/static/media/icomoon.9f54c46cb4f9639cb040.woff",
+    "static/media/icomoon.ttf?bqe4pp": "/ra-10.1-redux-editing/static/media/icomoon.134a0b6d2066a6b30651.ttf",
+    "static/media/icomoon.svg?bqe4pp": "/ra-10.1-redux-editing/static/media/icomoon.b2f9eea1da8f679ae025.svg",
+    "index.html": "/ra-10.1-redux-editing/index.html",
+    "main.9d7cadae.css.map": "/ra-10.1-redux-editing/static/css/main.9d7cadae.css.map",
+    "main.650b49cc.js.map": "/ra-10.1-redux-editing/static/js/main.650b49cc.js.map",
+    "787.28c9ae4f.chunk.js.map": "/ra-10.1-redux-editing/static/js/787.28c9ae4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7cadae.css",
+    "static/js/main.650b49cc.js"
+  ]
+}
